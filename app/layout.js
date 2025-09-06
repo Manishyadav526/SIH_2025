@@ -6,8 +6,8 @@ import Header from "@/components/ui/Header"; // matches your Header.jsx
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Asset_IQ",
-  description: "One stop finance analysis platform",
+  title: "AlumGlobe",
+  description: "AlumGlobe - Your Alumni. Your Network. Your Strength",
 };
 
 export default function RootLayout({ children }) {
@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
           {/* footer */}
           <footer className="bg-blue-50 py-12">
             <div className="container mx-auto px-4 text-center text-gray-600">
-              <p>Made In Greater Noida With 🫀</p>
+              <p>Made In Greater Noida With ♥</p>
             </div>
           </footer>
         </body>

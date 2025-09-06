@@ -13,8 +13,8 @@ export default function Header() {
         {/* Logo */}
         <Link href="/">
           <Image
-            src="/Asset-IQ-Logo.webp"
-            alt="AssetIQ logo"
+            src="/alumglobelogo.jpg"
+            alt="AlumGlobe logo"
             width={200}
             height={60}
             className="h-12 w-auto object-contain"
